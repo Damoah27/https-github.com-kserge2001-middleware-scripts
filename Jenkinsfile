@@ -12,7 +12,7 @@ pipeline {
         stage('create zip file') {
             steps {
                 
-           echo "Charlie est trop fort "
+           echo 'Charlie est trop fort'
              
             }
         }
