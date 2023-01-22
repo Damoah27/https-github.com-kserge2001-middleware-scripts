@@ -9,6 +9,13 @@ pipeline {
              
             }
         }
+        stage('create zip file') {
+            steps {
+                
+           echo "Charlie est trop fort respect Engineer"
+             
+            }
+        }
         
          
     }
